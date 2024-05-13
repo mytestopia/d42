@@ -1,4 +1,4 @@
-district42>=1.8,<1.9
+district42 @ git+https://github.com/mytestopia/district42@dev-2
 blahblah>=1.8,<1.9
 valera>=1.8,<1.9
 revolt>=1.8,<1.9
